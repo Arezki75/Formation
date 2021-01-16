@@ -20,6 +20,8 @@ git clone https://github.com/Arezki75/Formation.git
 git add test.txt  
 git commit -m "Ajout test.txt"  
 git push origin master  
-git pull origin master 
-git branch develop
-git checkout develop
+git pull origin master  
+git branch develop  
+git checkout develop   
+git merge develop  
+git revert HEAD 
